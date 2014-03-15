@@ -1,4 +1,4 @@
-//window.onload = getMyLocation mk;
+//window.onload = getMyLocation mk2;
 
 var map;
 var mymarker;
